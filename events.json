@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Local Rock Concert",
+        "date": "2023-07-15",
+        "location": "City Amphitheater",
+        "description": "A night full of rock music from local bands.",
+        "category": "Music"
+    },
+    {
+        "title": "Annual Art Exhibition",
+        "date": "2023-08-20",
+        "location": "Downtown Art Gallery",
+        "description": "Featuring contemporary art from regional artists.",
+        "category": "Arts"
+    },
+    {
+        "title": "Community Sports Day",
+        "date": "2023-09-10",
+        "location": "Community Sports Center",
+        "description": "A fun day of sports activities and games for all ages.",
+        "category": "Sports"
+    }
+]
